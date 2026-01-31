@@ -2,6 +2,8 @@
 
 An intelligent conversational AI agent that helps users create TikTok ad campaigns through natural language interaction. Built for the **TikTok Ads AI Engineer Assignment** with focus on prompt design, API reasoning, business rule enforcement, and robust error handling.
 
+![image alt](https://github.com/DarshanKagi/TikTok-Ads-Creation-AI-Agent/blob/f18e9961f815ad7437b48c50f019191c81dd5d9b/Screenshot%202026-01-31%20152045.png)
+
 ## ✨ Features
 
 - ✅ **Conversational Ad Creation** - Natural language interface via Gradio
@@ -500,3 +502,4 @@ Given more time, I would add:
 ---
 
 **⭐ If you found this helpful, please consider starring the repository!**
+
