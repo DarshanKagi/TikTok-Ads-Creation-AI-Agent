@@ -6,7 +6,7 @@
 **Interface:** CLI / minimal web UI (Gradio) + FastAPI callback for OAuth  
 **LLM:** Google Generative AI (Gemini) via `google.generativeai` SDK
 
-> This README describes how OAuth is handled, the prompt & schema design, API assumptions and mocks, and how to run the agent (mock mode or real TikTok mode). The 5-minute demo is intentionally omitted as requested.
+> This README describes how OAuth is handled, the prompt & schema design, API assumptions and mocks, and how to run the agent (mock mode or real TikTok mode).
 
 ---
 
