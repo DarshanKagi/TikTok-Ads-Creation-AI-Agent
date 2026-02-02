@@ -288,7 +288,3 @@ MIT License — feel free to reuse and adapt for educational purposes.
 
 ---
 
-If you want, I can:
-- generate a short `demo_script.md` with step-by-step interactions to record or run through (useful for graders), or
-- create a small `test_flow.py` script that programmatically drives the mock API through Music A/B/C so graders can reproduce quickly.
-Which would you prefer next?
