@@ -273,15 +273,6 @@ python main.py
 
 ---
 
-## Notes & limitations
-
-- This code is a **demo / prototype** focusing on agent design, prompt engineering, structured output, and robust API reasoning — not a production deployment.
-- Tokens are stored in plaintext JSON for convenience. Do **not** use this storage strategy in production.
-- Real TikTok music upload is **not** implemented in the demo (placeholder). If you need that functionality, implement per TikTok's file upload spec (authenticated multipart upload endpoints).
-- The LLM used is Google Gemini via `google.generativeai`. Make sure you have access or swap with another LLM SDK if needed.
-
----
-
 ## License
 
 MIT License — feel free to reuse and adapt for educational purposes.
