@@ -1,7 +1,0 @@
-gradio
-google-generativeai
-python-dotenv
-fastapi
-uvicorn
-jsonschema
-requests
