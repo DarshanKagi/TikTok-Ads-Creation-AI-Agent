@@ -66,8 +66,8 @@ graph TD
     end
     
     subgraph "Backend"
-        API <|-- Real[RealTikTokAPI]
-        API <|-- Mock[MockTikTokAPI]
+        API -.-> Real[RealTikTokAPI]
+        API -.-> Mock[MockTikTokAPI]
         Real <--> TikTok[TikTok Ads API]
         Real -- "Read/Write" --> TokenStore[(tiktok_token.json)]
     end
